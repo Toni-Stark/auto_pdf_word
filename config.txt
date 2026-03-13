@@ -1,0 +1,14 @@
+# PDF自动转换配置文件
+
+# 文件夹路径
+PDF_FOLDER=F:\pdf_word\pdf
+WORD_FOLDER=F:\pdf_word\word
+
+# 企业微信 Webhook URL
+WXWORK_WEBHOOK_URL=https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=eb2c74c2-39a9-46a7-b6cb-9e8f1d6d913a
+
+# 检测间隔（秒）
+CHECK_INTERVAL=5
+
+# 登录窗口截屏间隔（秒）
+CAPTURE_INTERVAL=60

@@ -1,0 +1,26 @@
+# IDE
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# OCR models
+*.pth
+
+# Debug files
+debug_*.png
+
+# Temporary files
+*.tmp
+*.log
